@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText"
+
+    >
+
+    <item
+        android:id="@+id/nav_basic"
+        android:title="Basic Calculator" />
+
+    <item
+        android:id="@+id/nav_unit"
+        android:title="Unit Converter" />
+
+    <item
+        android:id="@+id/nav_currency_converter"
+        android:title="Currency Converter" />
+
+    <item
+        android:id="@+id/nav_discount_calculator"
+        android:title="Discount Calculator" />
+
+    <item
+        android:id="@+id/nav_tip_calculator"
+        android:title="Tip Calculator" />
+
+
+    <item
+        android:id="@+id/nav_fuel_cost"
+        android:title="Fuel Cost Calculator" />
+
+    <item
+        android:id="@+id/nav_sales_Tax_calculator"
+        android:title="Sales Tax Calculator" />
+
+    <item
+        android:id="@+id/nav_fuel_efficiency"
+        android:title="Fuel Efficiency Calculator" />
+
+    <item
+        android:id="@+id/nav_loan_calculator"
+        android:title="Loan Calculator" />
+
+    <item
+        android:id="@+id/nav_savings_calculator"
+        android:title="Savings Calculator" />
+
+    <item
+        android:id="@+id/nav_unit_price_calculator"
+        android:title="Unit Price Calculator" />
+
+    <item
+        android:id="@+id/nav_health_calculator"
+        android:title="Health Calculator" />
+
+    <item
+        android:id="@+id/nav_world_converter"
+        android:title="World Time Converter" />
+    <item
+        android:id="@+id/nav_percentage_calculator"
+        android:title="Percentage Calculator"/>
+
+    <item
+        android:id="@+id/nav_gpa_calculator"
+        android:title="GPA Calculator"/>
+
+    <item
+        android:id="@+id/nav_date_calculator"
+        android:title="Date Calculator"/>
+
+    <item
+        android:id="@+id/nav_hexadecimal"
+        android:title="Hexadecimal Calculator"/>
+</menu>
